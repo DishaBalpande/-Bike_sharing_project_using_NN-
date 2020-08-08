@@ -42,7 +42,9 @@ The project meets the specifications, which are:
     9 .The learning rate is chosen such that the network successfully converges, but is still time efficient.
     10. The number of output nodes is properly selected to solve the desired problem.
     11. The training loss is below 0.09 and the validation loss is below 0.18.
-    
-    
+
+# Checkout the training results
+
+    Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.137
     
 <img width="450"   alt="download (1)" src="https://user-images.githubusercontent.com/55234691/89716841-30984f80-d9ce-11ea-9c7e-f1eaa5e0c637.png">
