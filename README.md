@@ -24,3 +24,21 @@ Then, I defined the train function that includes the feed-forward pass, backprop
   
   
 ![dataset](https://user-images.githubusercontent.com/55234691/89716685-b915f080-d9cc-11ea-81d7-9a9fe025e753.png)
+
+# Results
+
+
+The project meets the specifications, which are:
+
+
+    1. All the code in the notebook runs in Python 3 without failing, and all unit tests pass.
+    2. The sigmoid activation function is implemented correctly
+    3. The forward pass is correctly implemented for the network's training.
+    4. The run method correctly produces the desired regression output for the neural network.
+    5. The network correctly implements the backward pass for each batch, correctly updating the weight change.
+    6. Updates to both the input-to-hidden and hidden-to-output weights are implemented correctly.
+    7. The number of epochs is chosen such the network is trained well enough to accurately make predictions but is not overfitting to the training data.
+    8. The number of hidden units is chosen such that the network is able to accurately predict the number of bike riders, is able to generalize, and is not       overfitting.
+    9 .The learning rate is chosen such that the network successfully converges, but is still time efficient.
+    10. The number of output nodes is properly selected to solve the desired problem.
+    11. The training loss is below 0.09 and the validation loss is below 0.18.
