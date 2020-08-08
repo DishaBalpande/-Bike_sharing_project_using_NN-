@@ -41,7 +41,7 @@ The project meets the specifications, which are:
     8. The number of hidden units is chosen such that the network is able to accurately predict the number of bike riders, is able to generalize, and is not       overfitting.
     9 .The learning rate is chosen such that the network successfully converges, but is still time efficient.
     10. The number of output nodes is properly selected to solve the desired problem.
-    11. The training loss is below 0.09 and the validation loss is below 0.18.
+    11. The training loss is below 0.07 and the validation loss is below 0.13.
 
 # Checkout the training results
 
@@ -55,3 +55,4 @@ I use the test data to show how well the neural network is modeling the data.
 
 <img width="600" height="400" alt="download" src="https://user-images.githubusercontent.com/55234691/89717023-f7f97580-d9cf-11ea-8291-8ba6a8c68704.png">
 
+With the use of training and validation losses we can see how the model performs during the iterations. I end up with validation loss at 0.13 vs the training one at 0.07 which means that our model is overfitting - generalizing the pattern of the first two-thirds of the month on the last third of the month.
