@@ -53,5 +53,5 @@ The project meets the specifications, which are:
 
 I use the test data to show how well the neural network is modeling the data.
 
-<img width="500" height="200" alt="download" src="https://user-images.githubusercontent.com/55234691/89717023-f7f97580-d9cf-11ea-8291-8ba6a8c68704.png">
+<img width="500" height="500" alt="download" src="https://user-images.githubusercontent.com/55234691/89717023-f7f97580-d9cf-11ea-8291-8ba6a8c68704.png">
 
