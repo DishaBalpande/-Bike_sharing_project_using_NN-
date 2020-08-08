@@ -48,3 +48,10 @@ The project meets the specifications, which are:
     Progress: 100.0% ... Training loss: 0.076 ... Validation loss: 0.137
     
 <img width="450"   alt="download (1)" src="https://user-images.githubusercontent.com/55234691/89716841-30984f80-d9ce-11ea-9c7e-f1eaa5e0c637.png">
+
+# Checkout the prediction results
+
+I use the test data to show how well the neural network is modeling the data.
+
+<img width="498" alt="download" src="https://user-images.githubusercontent.com/55234691/89717023-f7f97580-d9cf-11ea-8291-8ba6a8c68704.png">
+
