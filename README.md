@@ -23,3 +23,4 @@ Then, I defined the train function that includes the feed-forward pass, backprop
   Below is a plot showing the number of bike riders over the first 10 days or so in the data set. (Some days don't have exactly 24 entries in the data set, so it's not exactly 10 days.) You can see the hourly rentals here. This data is pretty complicated! The weekends have lower over all ridership and there are spikes when people are biking to and from work during the week. Looking at the data above, we also have information about temperature, humidity, and windspeed, all of these likely affecting the number of riders. You'll be trying to capture all this with your model.
   
   
+![dataset](https://user-images.githubusercontent.com/55234691/89716685-b915f080-d9cc-11ea-81d7-9a9fe025e753.png)
